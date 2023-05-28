@@ -22,7 +22,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ~~~
-Developed By :L 212221230080
+Developed By : Ragul M
+Reg no: 212221230080
 ~~~
 ~~~
 
